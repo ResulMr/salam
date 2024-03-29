@@ -1,0 +1,59 @@
+*{
+  
+    font-family: "Archivo", sans-serif;
+}
+body{
+    background-color: #080a0c;
+
+}
+.pro{
+    width: 375px;
+    height: 375px;
+
+}
+.text{
+    color: white;
+    font-size: 40px;
+    line-height: 56px;
+    font-weight: 700;
+    text-align: center;
+}
+.btn1{
+    color: white;
+    background-color: #202832;
+   padding: 12px 130px;
+    border-radius: 80px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 100px;
+    
+}
+.btn2{
+    color: white;
+    background-image: linear-gradient(to right, rgb(160, 211, 255) , rgb(240, 95, 233) , rgb(235, 47, 135) , rgb(255, 140, 0));
+   padding: 12px 130px;
+    border-radius: 80px;
+    cursor: pointer;
+    text-decoration: none;
+    
+    
+}
+.provoda{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.btndiv{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+margin-top: 40px;
+}
+
+.fff{
+    position: relative;
+}
+.aaa{
+    position: absolute;
+}
